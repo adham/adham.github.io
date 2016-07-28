@@ -1,0 +1,15 @@
+Considering the raising socio-economic burden of autism spectrum disorder (ASD), 
+timely and evidence-driven public policy decision-making and communication of the 
+latest guidelines pertaining to the treatment and management of the disorder is 
+crucial. Yet evidence suggests that policy makers and medical practitioners do 
+not always have a good understanding of the practices and relevant beliefs of 
+ASD-afflicted individuals’ carers who often follow questionable recommendations 
+and adopt advice poorly supported by scientific data. The key goal of the present 
+work is to explore the idea that Twitter, as a highly popular platform for information 
+exchange, could be used as a data-mining source to learn about the population affected 
+by ASD—their behaviour, concerns, needs, etc. To this end, using a large data set 
+of over 11 million harvested tweets as the basis for our investigation, we describe 
+a series of experiments which examine a range of linguistic and semantic aspects of 
+messages posted by individuals interested in ASD. Our findings, the first of their 
+nature in the published scientific literature, strongly motivate additional research 
+on this topic and present a methodological basis for further work.

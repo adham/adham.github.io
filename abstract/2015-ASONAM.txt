@@ -1,0 +1,14 @@
+Notwithstanding recent work which has demonstrated the potential of using Twitter 
+messages for content-specific data mining and analysis, the depth of such analysis 
+is inherently limited by the scarcity of data imposed by the 140 character tweet 
+limit. In this paper we describe a novel approach for targeted knowledge exploration 
+which uses tweet content analysis as a preliminary step. This step is used to bootstrap 
+more sophisticated data collection from directly related but much richer content 
+sources. In particular we demonstrate that valuable information can be collected 
+by following URLs included in tweets. We automatically extract content from the 
+corresponding web pages and treating each web page as a document linked to the 
+original tweet show how a temporal topic model based on a hierarchical Dirichlet 
+process can be used to track the evolution of a complex topic structure of a 
+Twitter community. Using autism-related tweets we demonstrate that our method 
+is capable of capturing a much more meaningful picture of information exchange 
+than user-chosen hashtags.

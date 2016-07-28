@@ -1,0 +1,21 @@
+In this paper we describe a novel framework for discovering the topical content 
+of a data corpus, and the tracking of its complex structural changes across 
+the temporal dimension. In contrast to previous work our model does not impose a 
+prior on the rate at which documents are added to the corpus nor does it adopt the 
+Markovian assumption which overly restricts the type of changes that the model can 
+capture. Our key technical contribution is a framework based on (i) discretization of 
+time into epochs, (ii) epoch-wise topic discovery using a hierarchical Dirichlet 
+process-based model, and (iii) a temporal similarity graph which allows for the 
+modelling of complex topic changes: emergence and disappearance, evolution, splitting, 
+and merging. The power of the proposed framework is demonstrated on two medical 
+literature corpora concerned with the autism spectrum disorder (ASD) and the metabolic 
+syndrome (MetS) – both increasingly important research subjects with significant social 
+and healthcare consequences. In addition to the collected ASD and metabolic syndrome 
+literature corpora which we made freely available, our contribution also includes 
+an extensive empirical analysis of the proposed framework. We describe a detailed 
+and careful examination of the effects that our algorithms’s free parameters have on its 
+output, and discuss the significance of the findings both in the context of the practical 
+application of our algorithm as well as in the context of the existing body of work 
+on temporal topic analysis. Our quantitative analysis is followed by several qualitative 
+case studies highly relevant to the current research on ASD and MetS, on which our 
+algorithm is shown to capture well the actual developments in these fields.

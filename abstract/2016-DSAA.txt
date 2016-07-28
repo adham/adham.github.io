@@ -1,0 +1,17 @@
+We describe a novel framework for the discovery of underlying topics of a longitudinal 
+collection of scholarly data, and the tracking of their lifetime and popularity over time.
+Unlike the social media or news data, as the topic nuances in science result in new 
+scientific directions to emerge, a new approach to model the longitudinal literature 
+data is using topics which remain identifiable over the course of time. Current studies 
+either disregard the time dimension or treat it as an exchangeable covariate when they 
+fix the topics over time or do not share the topics over epochs when they model the time 
+naturally. We address these issues by adopting a non-parametric Bayesian approach. We 
+assume the data is partially exchangeable and divide it into consecutive epochs. Then, 
+by fixing the topics in a recurrent Chinese restaurant franchise, we impose a static 
+topical structure on the corpus such that the they are shared across epochs and the 
+documents within epochs. We demonstrate the effectiveness of the proposed framework 
+on a collection of medical literature related to autism spectrum disorder. We collect 
+a large corpus of publications and carefully examining two important research issues 
+of the domain as case studies. Moreover, we make the results of our experiment and 
+the source code of the model, freely available to aid other researchers by analysing 
+the results or applying the model to their data collections.

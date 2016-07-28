@@ -1,0 +1,11 @@
+ Remote sensing is a useful tool for detecting change over time. We introduce a hybrid 
+ change-detection method for forest and protected-area vegetation and demonstrate its use 
+ with two satellite images of Golestan National Park in northern Iran (1998 and 2010). 
+ We report on the advantages and disadvantages of the hybrid method relative to the 
+ standard change-detection method. In the proposed hybrid algorithm, the change vector 
+ analysis technique was used to determine changes in vegetation. Following this, we used 
+ postclassification comparison to determine the nature of the changes observed and their 
+ accuracy and to evaluate the effects of different parameters on the performance of the 
+ proposed method. We determined 85% accuracy for the proposed hybrid change-detection 
+ method, thus demonstrating a method for discovering and assessing environmental threats 
+ to natural treasures.

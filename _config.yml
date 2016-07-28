@@ -1,0 +1,16 @@
+# Site settings
+title: Adham Beykikhoshk
+email: abeyki@deakin.edu.au, odinay@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a PhD student at PRaDA - Deakin University. My work is in 
+  Statistical Machine Learning and its applciations.
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://adham.github.io" # the base hostname & protocol for your site
+twitter_username: adhambeyki
+github_username:  adham
+permalink: /blog/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
