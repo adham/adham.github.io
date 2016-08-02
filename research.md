@@ -70,3 +70,8 @@ doi:10.1117/1.JRS.8.083646.
 [pdf](http://remotesensing.spiedigitallibrary.org/article.aspx?articleid=1864681){:target="_blank"}
 
 
+# Software Packages
++ Bayesian Inference At Scale: [BIAS.jl](https://github.com/adham/BIAS.jl)
++ Bayesian NonParametrics: [BNP.jl](https://github.com/adham/BNP.jl)
+
+
