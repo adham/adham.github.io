@@ -4,5 +4,5 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* Here is a bulleted teaching point!
-* Here's another! 
+* An Introduction to Data Science, Deakin University, 2015  
+[Teaching Material](https://github.com/adham/SIT112)
