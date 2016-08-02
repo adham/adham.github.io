@@ -65,7 +65,6 @@ and Remote Sensing
 Ghofrani, Zahra and Mokhtarzade, Mehdi and Sahebi, Mohamad Reza and **Beykikhoshk, Adham**. 
 In Journal of Applied Remote Sensing, 8(1), pages 083646-083646, March 2014. 
 doi:10.1117/1.JRS.8.083646.   
-http://remotesensing.spiedigitallibrary.org/article.aspx?articleid=18646812014fd
 [bib](/bib/2014-JARS.bib){:target="_blank"} | 
 [abstract](/abstract/2014-JARS.txt){:target="_blank"} | 
 [pdf](http://remotesensing.spiedigitallibrary.org/article.aspx?articleid=1864681){:target="_blank"}

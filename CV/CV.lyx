@@ -1,0 +1,1509 @@
+#LyX file created by tex2lyx 2.0.8.1
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+
+
+\usepackage{enumitem}
+
+
+% Set your name here
+\def\name{Adham Beykikhoshk}
+
+% The following metadata will show up in the PDF properties
+
+
+,
+  left=1.0in,
+  top=1.0in
+}
+
+% Customize page headers
+
+\markright{\name}
+\thispagestyle{empty}
+
+
+% Custom section fonts
+\usepackage{sectsty}\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+
+
+% Make lists without bullets and compact spacing
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \setlength{\itemsep}{0.25em}
+    
+    \setlength{\parsep}{0.25em}
+  }
+}{
+  \end{list}
+}
+\setlist[enumerate]{itemsep=0.25em}
+
+
+\end_preamble
+\use_default_options false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\paperfontsize 10
+\spacing single
+\use_hyperref 1
+\pdf_title "\name: Curriculum Vitae"
+\pdf_author "\name"
+\pdf_subject "Curriculum Vitae"
+\pdf_keywords "Machine Learning, Bayesian nonparametrics, Data Mining"
+\pdf_bookmarks 0
+\pdf_bookmarksnumbered 0
+\pdf_bookmarksopen 0
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks 0
+\pdf_pdfborder 0
+\pdf_colorlinks 1
+\pdf_backref section
+\pdf_pdfusetitle 0
+\pdf_pagemode UseNone
+\pdf_quoted_options "urlcolor=black"
+\papersize letterpaper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 0
+\use_mathdots 0
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip 0pt
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% Place name at left
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\size largest
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+name{}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% Alternatively, print name centered and bold:
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+centerline{
+\backslash
+huge 
+\backslash
+bf 
+\backslash
+name}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "74.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ Centre for Pattern Recognition and Data Analytics (PRaDA) 
+\begin_inset Newline newline
+\end_inset
+
+ Deakin University 
+\begin_inset Newline newline
+\end_inset
+
+ Geelong, VIC 3216 
+\begin_inset Newline newline
+\end_inset
+
+ Australia 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "24.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+\align right
+
+office: +61 3 5227 2150 
+\begin_inset Newline newline
+\end_inset
+
+ mobile: +61 470 756 284 
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+target "abeyki@deakin.edu.au"
+type "mailto:"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://adham.github.io"
+target "http://adham.github.io/"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "19.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ Education 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "79.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Itemize
+
+2013 -- present 
+\series bold
+PhD
+\family default
+\series default
+\shape default
+ in Computer Science, Deakin University, Australia 
+\begin_inset Newline newline
+\end_inset
+
+ Thesis: Knowledge Discovery and Probabilistic modelling of Onlnie Autism Spectrum Disorder Data 
+\begin_inset Newline newline
+\end_inset
+
+ Supervisors: Dr Dinh Phung, Dr Svetha Venkatesh, and Dr Ognjen Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+2011 -- 2012 
+\series bold
+MSc
+\family default
+\series default
+\shape default
+ with distinction in Artificial Intelligence, University of Southampton, United Kingdom 
+\begin_inset Newline newline
+\end_inset
+
+ Thesis: Viewpoint Invariant Gait Energy Detection Image using Microsoft Kinect Supervisors: Dr. Mahesan Niranjan, Dr. Mark S. Nixon, and Dr John N. Carter
+\end_layout
+
+\begin_layout Itemize
+
+2002 -- 2007 
+\series bold
+BSc
+\family default
+\series default
+\shape default
+ in Electrical Engineering, KNToosi University of Technology, Iran 
+\begin_inset Newline newline
+\end_inset
+
+ Thesis: THESIS Supervisors: Dr. Ali Khaki Sedigh, Dr Houman Sadjadian 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "19.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ Research 
+\begin_inset Newline newline
+\end_inset
+
+ Interests 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "79.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Itemize
+
+Statistical Machine Learning, Bayesian Statistics, Data Mining 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "19.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ Publications 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "79.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% you can add links to publications 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+Beykikhoshk, A., Phung, D., Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+, O., and Venkatesh, S. (2016). Analysing the History of Autism Spectrum Disorder using Topic Models. To appear in the proceedings of 
+\shape italic
+IEEE International Conference on Data Science and Advanced Analytics (DSAA)
+\shape default
+. IEEE.
+\end_layout
+
+\begin_layout Enumerate
+
+Beykikhoshk, A., Phung, D., Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+, O., and Venkatesh, S. (2016). Discovering Topic Structure of a Temporally Evolving Document Corpus. To appear in Knowledge and Information Systems Journal. December 2015, 
+\shape italic
+arXiv preprint arXiv:1512.08008
+\shape default
+
+\end_layout
+
+\begin_layout Enumerate
+
+Beykikhoshk, A., Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+, O., Phung, D., and Venkatesh, S. (2015). Overcoming Data Scarcity of Twitter: Using Tweets as Bootstrap with Application to Autism-Related Topic Content Analysis. In the proceedings of 
+\shape italic
+IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)
+\shape default
+, pp. 1354-1361, IEEE. doi:10.1145/2808797.2808908.
+\end_layout
+
+\begin_layout Enumerate
+
+Beykikhoshk, A., Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+, O., Phung, D., Venkatesh, S., and Caelli, T. (2015). Using Twitter to Learn About the Autism Community. In 
+\shape italic
+Social Network Analysis and Mining
+\shape default
+, 5(1), pp. 5-22. doi:10.1145/2808797.2808908
+\end_layout
+
+\begin_layout Enumerate
+
+Beykikhoshk, A., Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+, O., Phung, D., and Venkatesh, S. (2015). Hierarchical Dirichlet Process for Tracking Complex Topical Structure Evolution and its Application to Autism Research Literature In the proceedings of 
+\shape italic
+Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+\shape default
+, pp. 550-562. Springer International Publishing. doi:10.1007/978-3-319-18038-0_43
+\end_layout
+
+\begin_layout Enumerate
+
+Beykikhoshk, A., Arandelovi
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ć
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+, O., Phung, D., Venkatesh, S., and Caelli, T. (2014). Data-mining Twitter and the Autism Spectrum Disorder: A Pilot Study In the proceedings of 
+\shape italic
+IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)
+\shape default
+, pp. 349-356. IEEE. doi:10.1109/ASONAM.2014.6921609 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "19.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ Publications 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "79.5text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+setcounter{enumi}{6}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+Ghofrani, Z., Mokhtarzade, M., Sahebi M.R., and Beykikhoshk, A. (2014) Evaluating Coverage Changes in National Parks using a Hybrid Change Detection Algorithm and Remote Sensing. In 
+\shape italic
+Journal of Applied Remote Sensing
+\shape default
+, 8(1), pp. 083646-083646. doi:10.1117/1.JRS.8.083646. 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+
+Grants, Fellowships, & Awards
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Moulton, S. (PI), Seligman, J.
+\begin_inset space ~
+
+\end_inset
+
+S., Haurin, D.
+\begin_inset space ~
+
+\end_inset
+
+R., Loibl, C., Blevins, J.
+\begin_inset space ~
+
+\end_inset
+
+R. (Co-PIs). Aging in Place: Managing the Use of Reverse Mortgages to Enable Housing Stability, 2013--2016. U.S. Department of Housing and Urban Development (HUD) Grant. $555,004. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Summer Research Fellowship, Duke University, 2007, 2008. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Institute on Computational Economics Fellow, University of Chicago, 2006. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Outstanding Teaching Assistant Award, Duke University, 2006. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Undergraduate Research Award, North Carolina State University, 2004. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 
+\backslash
+item Omicron Delta Epsilon, International Economics Honor Society, 2004.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Phi Beta Kappa, Zeta of North Carolina, 2003. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 
+\backslash
+item Pi Mu Epsilon, National Mathematics Honor Society, 2003.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+NSF Research Experiences for Undergraduates, Colorado School of Mines, 2002. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 
+\backslash
+item Phi Kappa Phi, 2002.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 
+\backslash
+item Golden Key International Honour Society, 2002.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 
+\backslash
+item Dean's List, North Carolina State University, 2000--2004.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+
+Professional Activities
+\end_layout
+
+\begin_layout Section*
+
+Teaching
+\end_layout
+
+\begin_layout Subsection*
+
+The Ohio State University
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Topics in Microeconometrics (Ph.D.): 
+\begin_inset CommandInset href
+LatexCommand href
+name "Fall 2011"
+target "http://jblevins.org/courses/econ843f11/"
+
+\end_inset
+
+, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 5 students, 5 quarter credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Fall 2012"
+target "http://jblevins.org/courses/econ8833f12/"
+
+\end_inset
+
+, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 11 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Fall 2014"
+target "http://jblevins.org/courses/econ8833f14/"
+
+\end_inset
+
+, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 12 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Fall 2015"
+target "http://jblevins.org/courses/econ8833f15/"
+
+\end_inset
+
+, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 7 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Fall 2016"
+target "http://jblevins.org/courses/econ8833f16/"
+
+\end_inset
+
+. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% ? students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Econometrics I (Ph.D.): 
+\begin_inset CommandInset href
+LatexCommand href
+name "Spring 2011"
+target "http://jblevins.org/courses/econ741s11/"
+
+\end_inset
+
+. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 47 students, 5 quarter credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Econometrics II: Spring 2012, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 60 students, 5 quarter credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ Fall 2012, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 24 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ Fall 2016. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% ? students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Introductory Econometrics: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Winter 2011"
+target "http://jblevins.org/courses/econ444w11/"
+
+\end_inset
+
+, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 57 students, 5 quarter credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ Spring 2014, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 60 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ Fall 2014, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 87 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+ Spring 2015. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 110 students, 3 semester credit hours
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+Duke University
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Microeconomics Qualifier Camp (Ph.D.): 
+\begin_inset CommandInset href
+LatexCommand href
+name "Summer 2006"
+target "http://jblevins.org/courses/qualcamp06/"
+
+\end_inset
+
+. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Econometrics II (Ph.D.): 
+\begin_inset CommandInset href
+LatexCommand href
+name "Spring 2007"
+target "http://jblevins.org/courses/econ342s07/"
+
+\end_inset
+
+, teaching assistant for Shakeeb Khan. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Microeconomic Analysis II (Ph.D.): 
+\begin_inset CommandInset href
+LatexCommand href
+name "Spring 2006"
+target "http://jblevins.org/courses/econ302s06/"
+
+\end_inset
+
+, teaching assistant for Curtis Taylor. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+Microeconomic Analysis I (Ph.D.): 
+\begin_inset CommandInset href
+LatexCommand href
+name "Fall 2005"
+target "http://jblevins.org/courses/econ301f05/"
+
+\end_inset
+
+, teaching assistant for Thomas Nechyba. 
+\end_layout
+
+\begin_layout Section*
+
+Miscellaneous
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+
+\shape italic
+Programming Languages:
+\shape default
+ Fortran, Matlab, LaTeX, Emacs Lisp, Perl, Python, Stata, Mata, C, C++, SQL. 
+\end_layout
+
+\begin_layout Itemize
+
+\size largest
+
+
+\shape italic
+Security Clearance:
+\shape default
+ Special Sworn Status, U.S. Census Bureau. 
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% Footer
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\size small
+Last updated: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+today
+\end_layout
+
+\end_inset
+
+
+\size largest
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+document
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\size default
+
+\end_layout
+
+\end_body
+\end_document

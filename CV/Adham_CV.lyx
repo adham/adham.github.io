@@ -1,0 +1,1504 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+
+
+%A Few Useful Packages
+\usepackage{marvosym}
+%for loading fonts
+\usepackage{xunicode}\usepackage{xltxtra}\usepackage{url}\usepackage{parskip}%other packages for formatting
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[big]{layaureo}%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+\usepackage{supertabular}%for Grades
+\usepackage{titlesec}%custom \section
+
+%Setup hyperref package, and colours for links
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+
+
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin}
+%%% modified for Karol Kozioł for ShareLaTeX use
+
+%%%
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+%Tweak a bit the top margin
+%\addtolength{\voffset}{-1.3cm}
+
+%Italian hyphenation for the word: ''corporations''
+\hyphenation{im-pre-se}
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+
+
+%--------------------BEGIN DOCUMENT----------------------
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman Fontin.otf
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref true
+\pdf_bookmarks false
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle false
+\pdf_quoted_options "colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour"
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+empty
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+% non-numbered pages
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size giant
+Alessandro 
+\shape smallcaps
+Plasmati
+\shape default
+ 
+\size default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section
+Personal Data
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Place and Date of Birth:
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Someplace, Italy | dd Month 1912 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Address:
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CV Inn 19, 20301, Milano, Italy 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Phone:
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++39 123 456789
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+email:
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "alessandro.plasmati@gmail.com"
+type "mailto:"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%Section: Work Experience at the top
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Work Experience
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="none" valignment="top" width="11cm">
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Current
+\emph default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trader at 
+\shape smallcaps
+Enoi
+\shape default
+ s.p.a., Milan 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Jan 2009
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Physical Natural Gas Trading
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Provided analysis of spreads, in particular time and location spreads, with
+ emphasis on trading opportunities on the curve, also taking into account
+ the availability of storage facilities.
+ Became familiar with logistic implications of physical gas trading and
+ developed knowledge of continental virtual hubs for gas exchange.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="none" valignment="top" usebox="none" special="c">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Jul-Oct 2008
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+st
+\end_layout
+
+\end_inset
+
+ year Analyst at 
+\shape smallcaps
+Lehman Brothers
+\shape default
+, London 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Commodities Structured Trading
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Developed spreadsheets for risk analysis on exotic derivatives on a wide
+ array of commodities (
+\shape italic
+ags, oils, precious
+\shape default
+ and 
+\shape italic
+base metals
+\shape default
+), managed blotter and secondary trades on structured notes, liaised with
+ Middle Office, Sales and Structuring for bookkeeping.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="none" valignment="top" usebox="none" special="c">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Summer 2007
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Summer Intern at 
+\shape smallcaps
+Lehman Brothers
+\shape default
+, 
+\emph on
+Capital Markets
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Received pre-placed offer from the Exotics Trading Desk as a result of very
+ positive review.
+ Rated 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+truly distinctive
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ for Analytical Skills and Teamwork.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%Section: Education
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Education
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="14" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+July
+\shape default
+ 2008 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Master of Science in 
+\shape smallcaps
+Finance
+\shape default
+, 
+\series bold
+Bocconi University
+\series default
+, Milan
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+110/110 
+\size small
+\emph on
+summa cum laude
+\emph default
+ | Major: Quantitative Finance
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Thesis: 
+\begin_inset Quotes eld
+\end_inset
+
+Sublinear and Locally Sublinear Prices
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\size small
+Advisor: Prof.
+ Erio 
+\shape smallcaps
+Castagnoli
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+\size normal
+Gpa
+\shape default
+: 28.61/30
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+hyperlink{grds}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+| 
+\size footnotesize
+Detailed List of Exams
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+July
+\shape default
+ 2006
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Undergraduate Degree in 
+\shape smallcaps
+Law
+\shape default
+ and 
+\shape smallcaps
+Business Administration
+\shape default
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+110/110 
+\size small
+\emph on
+summa cum laude
+\emph default
+, 
+\series bold
+\size normal
+Bocconi University
+\series default
+, Milan
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Thesis: 
+\begin_inset Quotes eld
+\end_inset
+
+Portfolio Strategies with Target Prices
+\begin_inset Quotes erd
+\end_inset
+
+ | 
+\size small
+Advisor: Stefano 
+\shape smallcaps
+Bonini
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+\size normal
+Gpa
+\shape default
+: 29.85/30
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+hyperlink{grds_cleli}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+| 
+\size footnotesize
+Detailed List of Exams
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Fall
+\shape default
+ 2005
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Exchange Semester at 
+\series bold
+University of Southern California
+\series default
+, Los Angeles
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Gpa
+\shape default
+: 3.875/4 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+hyperlink{grds_usc}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+| 
+\size footnotesize
+Detailed List of Exams
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+July
+\shape default
+ 2003
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Liceo Classico 
+\begin_inset Quotes eld
+\end_inset
+
+E.
+ Duni
+\begin_inset Quotes erd
+\end_inset
+
+
+\series default
+, Matera | Final Grade: 100/100 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%Section: Scholarships and additional info
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Scholarships and Certificates
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Sept.
+
+\shape default
+ 2006 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Scholarship for graduate students with an outstanding curriculum 
+\size footnotesize
+(
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+EURcr
+\end_layout
+
+\end_inset
+
+ 30,000)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+June
+\shape default
+ 2006 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+730 (
+\shape smallcaps
+q:50;v:39
+\shape default
+) 96
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+th
+\end_layout
+
+\end_inset
+
+ percentile; 
+\shape smallcaps
+awa
+\shape default
+: 6.0/6.0 (89
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+th
+\end_layout
+
+\end_inset
+
+ percentile) 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%Section: Languages
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Languages
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+Italian:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mothertongue
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+English:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fluent
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+French:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Basic Knowledge
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Computer Skills
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Basic Knowledge:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+php
+\shape default
+, my
+\shape smallcaps
+sql
+\shape default
+, 
+\shape smallcaps
+html
+\shape default
+, Access, 
+\shape smallcaps
+Linux
+\shape default
+, ubuntu,
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Intermediate Knowledge:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+vba
+\shape default
+, Excel, Word, PowerPoint
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Interests and Activities
+\end_layout
+
+\begin_layout Standard
+Technology, Open-Source, Programming
+\begin_inset Newline newline
+\end_inset
+
+ Paradoxes in Decision Making, Psychoanalysis, Behavioural Finance
+\begin_inset Newline newline
+\end_inset
+
+ Football, Travelling
+\end_layout
+
+\end_body
+\end_document
